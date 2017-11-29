@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1511962301 source:c:\users\palli\documents\skoli\ný mappa\verk\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<superhero.h>
+
+1511962352 c:\users\palli\documents\skoli\ný mappa\verk\include\superhero.h
+	<iostream>
+	<fstream>
+	<string>
+
+1511962352 source:c:\users\palli\documents\skoli\ný mappa\verk\src\superhero.cpp
+	"superhero.h"
+
